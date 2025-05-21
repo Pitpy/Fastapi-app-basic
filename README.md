@@ -28,13 +28,11 @@ pip install fastapi
 
 If you need to use FastAPI with a specific database or other libraries, you can install them separately. For example, to use FastAPI with SQLAlchemy:
 
-````
-
 3. Install ASGI server:
 
 ```bash
 pip install uvicorn
-````
+```
 
 ## Running the Application
 
